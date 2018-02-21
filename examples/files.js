@@ -1,8 +1,8 @@
 var files = {
 	"webgl": [
-		"webgl_geometry_colors",
-		"webgl_geometry_cube",
-		"webgl_loader_fbx"
+		"webgl_geometry_colors (before)",
+		"webgl_geometry_cube (the)",
+		"webgl_loader_fbx (change)"
 	],
 	"webgl / advanced": [
 		"webgl_worker_offscreencanvas"
